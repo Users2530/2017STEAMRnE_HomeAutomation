@@ -11,11 +11,9 @@ R&E 연구 중 사용한 소스 코드입니다.
 
 이 파일을 전부 다운로드한 다음, 아두이노에 업로드합니다.
 
-main.ino: 소스 코드의 메인이 되는 파일입니다.
+STEAMRnE_34A.ino: 데이터 수집 장치에 사용하는 코드입니다.
 
-AllSerialControl.h: Pulse 센서를 사용하기 위한 파일입니다.
-
-Interrupt.h: Pulse 센서를 컨트롤하기 위한 파일입니다.
+STEAMRnE_34C.ino: 전자기기 제어 장치에 사용하는 코드입니다. 
 
 ### Raspberry_Pi 폴더
 
