@@ -5,6 +5,9 @@
 
 R&E 연구 중 사용한 소스 코드입니다.
 
+아래 링크를 통해 영어로 번역된 문서를 보실 수 있습니다.
+https://github.com/charlielee206/2017SteamR-E
+
 ## 각 파일의 설명
 
 ### Arduino 폴더
