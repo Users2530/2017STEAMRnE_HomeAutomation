@@ -1,0 +1,524 @@
+Friday 18.08.2017 -- 10:13:34
+
+Ambient = 31.21*C	Object = 35.85*C
+
+
+
+Friday 18.08.2017 -- 10:14:34
+
+Ambient = 32.29*C	Object = 36.41*C
+
+
+
+Friday 18.08.2017 -- 10:15:34
+
+Ambient = 33.17*C	Object = 36.97*C
+
+
+
+Friday 18.08.2017 -- 10:25:48
+
+Ambient = 31.73*C	Object = 36.57*C
+
+
+
+Friday 18.08.2017 -- 10:26:48
+
+Ambient = 32.27*C	Object = 35.45*C
+
+
+
+Friday 18.08.2017 -- 10:26:53
+
+Ambient = 32.41*C	Object = 37.21*C
+
+
+
+Friday 18.08.2017 -- 10:27:52
+
+Ambient = 32.47*C	Object = 36.55*C
+
+
+
+Friday 18.08.2017 -- 10:28:52
+
+Ambient = 32.47*C	Object = 36.33*C
+
+
+
+Friday 18.08.2017 -- 10:29:57
+
+Ambient = 32.09*C	Object = 37.75*C
+
+
+
+Friday 18.08.2017 -- 10:30:57
+
+Ambient = 32.43*C	Object = 36.13*C
+
+
+
+Friday 18.08.2017 -- 10:31:57
+
+Ambient = 32.25*C	Object = 36.97*C
+
+
+
+Friday 18.08.2017 -- 10:32:57
+
+Ambient = 32.11*C	Object = 37.77*C
+
+
+
+Friday 18.08.2017 -- 10:33:57
+
+Ambient = 32.01*C	Object = 37.11*C
+
+
+
+Friday 18.08.2017 -- 10:34:56
+
+Ambient = 32.09*C	Object = 37.45*C
+
+
+
+Friday 18.08.2017 -- 10:35:56
+
+Ambient = 32.25*C	Object = 37.21*C
+
+
+
+Friday 18.08.2017 -- 10:36:56
+
+Ambient = 32.03*C	Object = 36.81*C
+
+
+
+Friday 18.08.2017 -- 10:37:56
+
+Ambient = 32.03*C	Object = 37.25*C
+
+
+
+Friday 18.08.2017 -- 10:38:56
+
+Ambient = 32.33*C	Object = 37.53*C
+
+
+
+Friday 18.08.2017 -- 10:39:12
+
+Ambient = 32.35*C	Object = 36.95*C
+
+
+
+Friday 18.08.2017 -- 10:40:12
+
+Ambient = 32.01*C	Object = 37.11*C
+
+
+
+Friday 18.08.2017 -- 10:41:12
+
+Ambient = 32.31*C	Object = 37.93*C
+
+
+
+Friday 18.08.2017 -- 10:42:12
+
+Ambient = 32.53*C	Object = 37.59*C
+
+
+
+Friday 18.08.2017 -- 10:43:12
+
+Ambient = 32.21*C	Object = 37.25*C
+
+
+
+Friday 18.08.2017 -- 10:44:12
+
+Ambient = 32.37*C	Object = 36.23*C
+
+
+
+Friday 18.08.2017 -- 10:45:12
+
+Ambient = 32.73*C	Object = 38.53*C
+
+
+
+Friday 18.08.2017 -- 10:46:12
+
+Ambient = 32.21*C	Object = 36.61*C
+
+
+
+Friday 18.08.2017 -- 10:47:12
+
+Ambient = 30.11*C	Object = 27.61*C
+
+
+
+Friday 18.08.2017 -- 10:48:12
+
+Ambient = 32.31*C	Object = 38.41*C
+
+
+
+Friday 18.08.2017 -- 10:49:11
+
+Ambient = 32.37*C	Object = 28.83*C
+
+
+
+Friday 18.08.2017 -- 10:50:11
+
+Ambient = 31.49*C	Object = 40.63*C
+
+
+
+Friday 18.08.2017 -- 10:51:11
+
+Ambient = 33.83*C	Object = 37.69*C
+
+
+
+Friday 18.08.2017 -- 10:51:35
+
+Ambient = 33.35*C	Object = 33.73*C
+
+
+
+Friday 18.08.2017 -- 10:52:08
+
+Ambient = 33.05*C	Object = 32.39*C
+
+
+
+Friday 18.08.2017 -- 10:52:12
+
+Ambient = 32.91*C	Object = 28.45*C
+
+
+
+Friday 18.08.2017 -- 10:52:15
+
+Ambient = 32.75*C	Object = 27.79*C
+
+
+
+Friday 18.08.2017 -- 10:53:15
+
+Ambient = 30.57*C	Object = 26.55*C
+
+
+
+Friday 18.08.2017 -- 10:54:15
+
+Ambient = 28.11*C	Object = 25.85*C
+
+
+
+Friday 18.08.2017 -- 10:55:15
+
+Ambient = 26.69*C	Object = 25.67*C
+
+
+
+Friday 18.08.2017 -- 10:56:15
+
+Ambient = 26.39*C	Object = 25.69*C
+
+
+
+Friday 18.08.2017 -- 10:57:15
+
+Ambient = 25.77*C	Object = 24.77*C
+
+
+
+Friday 18.08.2017 -- 10:58:15
+
+Ambient = 25.15*C	Object = 24.83*C
+
+
+
+Friday 18.08.2017 -- 10:59:15
+
+Ambient = 24.89*C	Object = 24.95*C
+
+
+
+Gas:0
+
+Ambient Temp:30.51
+
+Object Temp:35.15
+
+
+
+Gas:0
+
+Ambient Temp:30.53
+
+Object Temp:35.07
+
+
+
+Gas:0
+
+Ambient Temp:30.53
+
+Object Temp:35.07
+
+
+
+Gas:0
+
+Ambient Temp:30.53
+
+Object Temp:35.07
+
+
+
+Gas:0
+
+Ambient Temp:30.55
+
+Object Temp:35.07
+
+
+
+Gas:0
+
+Ambient Temp:30.59
+
+Object Temp:35.05
+
+
+
+Gas:0
+
+Ambient Temp:30.55
+
+Object Temp:35.05
+
+
+
+Gas:0
+
+Ambient Temp:30.55
+
+Object Temp:34.93
+
+
+
+Gas:0
+
+Ambient Temp:30.57
+
+Object Temp:34.93
+
+
+
+Gas:0
+
+Ambient Temp:30.59
+
+Object Temp:34.89
+
+
+
+Gas:0
+
+Ambient Temp:30.63
+
+Object Temp:34.97
+
+
+
+Gas:0
+
+Ambient Temp:30.61
+
+Object Temp:34.91
+
+
+
+Gas:0
+
+Ambient Temp:30.65
+
+Object Temp:34.93
+
+
+
+Gas:0
+
+Ambient Temp:30.63
+
+Object Temp:34.93
+
+
+
+Gas:0
+
+Ambient Temp:30.69
+
+Object Temp:34.99
+
+
+
+fþGas:0
+
+Ambient Temp:25.27
+
+Object Temp:25.25
+
+
+
+Gas:0
+
+Ambient Temp:25.31
+
+Object Temp:25.25
+
+
+
+Gas:0
+
+Ambient Temp:25.31
+
+Object Temp:25.23
+
+
+
+Gas:0
+
+Ambient Temp:25.33
+
+Object Temp:25.17
+
+
+
+Gas:0
+
+Ambient Temp:25.27
+
+Object Temp:25.19
+
+
+
+Gas:0
+
+Ambient Temp:25.31
+
+Object Temp:25.25
+
+
+
+Gas:0
+
+Ambient Temp:25.29
+
+Object Temp:24.87
+
+
+
+Gas:0
+
+Ambient Temp:25.27
+
+Object Temp:25.31
+
+
+
+Gas:0
+
+Ambient Temp:25.27
+
+Object Temp:25.23
+
+
+
+Gas:0
+
+Ambient Temp:25.31
+
+Object Temp:25.29
+
+
+
+Gas:0
+
+Ambient Temp:25.31
+
+Object Temp:10.27
+
+
+
+Gas:0
+
+Ambient Temp:25.29
+
+Object Temp:25.11
+
+
+
+Gas:0
+
+Ambient Temp:25.27
+
+Object Temp:25.23
+
+
+
+Gas:0
+
+Ambient Temp:25.33
+
+Object Temp:25.59
+
+
+
+Gas:0
+
+Ambient Temp:25.31
+
+Object Temp:25.63
+
+
+
+Gas:0
+
+Ambient Temp:25.33
+
+Object Temp:25.59
+
+
+
+Gas:0
+
+Ambient Temp:25.31
+
+Object Temp:25.49
+
+
+
+Gas:0
+
+Ambient Temp:25.31
+
+Object Temp:25.41
+
+
+
+Gas:0
+
+Ambient Temp:25.31
+
+Object Temp:25.31
+
+
+
