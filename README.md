@@ -3,10 +3,14 @@
 2017년도 STEAM R&E
 주제: 수면 시 생체신호 변화를 이용한 홈 오토메이션 제어
 
-R&E 연구 중 사용한 소스 코드입니다.
+STEAM R&E 연구 중 사용한 소스 코드입니다.
 
-아래 링크를 통해 영어로 번역된 문서를 보실 수 있습니다.
-https://github.com/charlielee206/2017SteamR-E
+[여기](https://github.com/charlielee206/2017SteamR-E)에서 영어로 번역된 문서를 보실 수 있습니다.
+
+
+## 설계도
+
+<img src=design.PNG>
 
 ## 각 파일의 설명
 
@@ -25,7 +29,6 @@ STEAMRnE_34C.ino: 전자기기 제어 장치에 사용하는 코드입니다.
 main.py: 파이썬 메인 코드입니다.
 
 ## Changelog
-
 
 ### Arduino Code
 
