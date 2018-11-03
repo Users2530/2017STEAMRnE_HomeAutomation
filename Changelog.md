@@ -1,83 +1,105 @@
 # Changelog
 
+For Korean-translated Changelog, see [here](Changelog_kr.md).
+
 ## Arduino Code
 
 #### v1
-##### 개선된 기능
-- 최초 소스 코드
-- 아두이노에서 심박, 주변 온도, 대상 온도(체온)를 시간에 따라 디스플레이하는 기능 추가
-- 아두이노 시리얼 모니터를 사용하여 데이터를 받아보는 기능 추가
-##### 보고된 에러
-- 가끔씩 시간이 10초 가량 어긋나는 오류가 있음
+##### New Features
++ First code.
++ Added code to display collected data (Pulse, Object,Ambient temp, Time) via OLED screen.
++ Added code to display collected data via serial monitor.
 
-#### v11
-##### 개선된 기능
-- 실시간 저장 기능 추가: 아두이노와 라즈베리 파이를 연결하여 시간에 따라 자동으로 MySQL 데이터베이스에 저장되도록 함
-- 다이얼 위치에 따라 다른 센서의 값을 볼 수 있는 기능 추가
-##### 보고된 에러
-- 시간이 1시간 가량 어긋나는 오류가 있음
-- 센서 데이터 수집이 간헐적으로 멈추는 오류가 있음
+##### Known errors
++ Error with the RTC. Time isn't consistent.
 
-#### v12
-##### 개선된 기능
-- 센서 데이터 수집이 간헐적으로 멈추는 오류를 해결
-- 센서가 데이터를 1초 간격으로 수집하도록 수정
-- 다이얼 위치에 따라서 센서의 값을 보거나 시간을 볼 수 있도록 수정
-##### 보고된 에러
-- 가끔씩 시간이 1초 가량 어긋나는 오류가 있음
 
-#### v20
-##### 개선된 기능
-- 시간 조절 기능을 개선함
-##### 보고된 에러
-- 가속도 센서와 RTC 모듈이 충돌하는 오류가 있음
+#### v1.1
+##### New Features
++ Added Real time data logging; While connected to a raspberry Pi, data is automatically saved to a MySQL Database.
++ Added code to control what is displayed on the OLED screen via potentiometer.
 
-#### v30
-##### 개선된 기능
-- 블루투스 무선 통신 기능을 추가함
-- 불안정한 온도 센서, 심박 센서를 제외함
-##### 보고된 에러
-- 가속도 센서와 RTC 모듈이 충돌하는 오류가 있음
+##### Known Errors
++ Time error: about 1 Hour.
++ Sensors intermittently stop recording.
 
-#### v31
-##### 개선된 기능
-- 문자열 연산을 아두이노의 내장 함수를 사용하여 구현함
-- 아두이노 시리얼 모니터를 통해 진행 과정을 모니터링할 수 있음
-##### 보고된 에러
-- 가속도 센서와 RTC 모듈이 충돌하는 오류가 있음
 
-#### v32
-##### 개선된 기능
-- 소스 코드를 정리함
-##### 보고된 에러
-- 가속도 센서와 RTC 모듈이 충돌하는 오류가 있음
+#### v1.2
+##### New Features
++ Fixed error where sensors randomly stop recording.
++ Edited code so that sensors log every 1 second.
++ Added code to see time or sensor value display via potentiometer.
 
-#### v33
-##### 개선된 기능
-- 하드웨어 구조를 이원화함과 동시에 소스 코드를 이원화함
-- 가속도 센서와 RTC 모듈의 충돌을 해결함
-- 블루투스 수신역에서 시간을 받아 송신역으로 역송신함으로써 시간을 표시하고 시간에 따라 작동하도록 함
-##### 보고된 에러
-- 시간을 받아오는 것이 불안정하여 데이터 측정 장치가 제대로 작동하지 않는 오류가 있음
+##### Known Errors
+Time error: about 1 second.
 
-#### v34
-##### 개선된 기능
-- 작동이 불안정한 RTC 모듈을 제외함
-- 온도 센서를 센서 착용 여부를 판단하기 위한 보조 기구로 사용하기 위해 다시 채용함
-- 디스플레이 갱신 주기를 1초에서 실시간으로 단축함
-- 데이터 전달 방향을 고정하여 데이터가 꼬이지 않도록 함
-##### 보고된 에러
-- 아두이노 자체 딜레이가 정확하지 않아 600초에 1~5초 정도의 오차가 생김
 
-## Raspberry Pi Code
+#### v2.0
+##### New Features
++ Improved Time control features.
+
+##### Known Errors
++ Clash between accelerometer and RTC.
+
+
+#### v3.0
+##### New Features
++ Bluetooth- Connection between Pi and arduino is now wireless.
++ Removed unstable Temp and pulse sensor.
+
+##### Known Errors
++ Clash between accelerometer and RTC.
+
+
+#### v3.1
+##### New Features
++ Added functions within the arduino code that handles strings.
++ Added the ability to monitor progress via serial monitor.
+
+##### Known Errors
++ Clash between accelerometer and RTC.
+
+
+#### v3.2
+##### New Features
++ Code Cleanup
+
+##### Known Errors
++ Clash between accelerometer and RTC
+
+
+#### v3.3
+##### New Features
++ Dualization of code and hardware.
++ Solved RTC-Accelerometer clash problem.
++ Reciever Bluetooth module sends time data back to transmitter,and displays time.
+
+##### Known Errors
++ Recieving time function is unstable.
+
+
+#### v3.4
+##### New Features
++ Removed unstable RTC module.
++ RE-Added Temp sensor to check if user is wearing the device.
++ Shortened display refresh time from 1 second to real-time.
++ fixed data transmission direction in order to make sure data doesn't get tangled.
+
+##### Known Errors
++ Time error: 1~5 seconds for 600ish seconds. This is inevitable since the delay function within the arduino has a bit of inaccuracy.
+
+
+## Raspberry Pi
+
 
 #### v1
-##### 개선된 기능
-- 최초 소스 코드
-- 아두이노 시리얼 모니터에서 출력한 데이터를 MySQL에 저장하는 기능 추가
-- 수집되는 데이터를 터미널에 출력하는 기능 추가
+##### New Features
++ First code.
++ Added function that saves data recieved from the arduino serial monitor to a MySQL Database.
++ Added function that outputs collected data to a terminal.
+
 
 #### v2
-##### 개선된 기능
-- 이름 입력 기능 추가: 사용자가 이름을 입력하면 MySQL에서 이름에 따라 데이터를 따로 보관할 수 있음
-- 파일 저장 기능 추가: 데이터가 수집되기 시작하면 데이터가 텍스트(.txt) 파일로 저장됨
+##### New Features
++ Added option to enter name
++ Added option to output logged data as a text(.txt) file.
